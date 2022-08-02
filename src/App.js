@@ -3,7 +3,7 @@ import './App.css';
 import { useState } from 'react';
 
 function App() {
- 
+
   const [number,setNumber]=useState(1)
   return (
     <div className="App">
